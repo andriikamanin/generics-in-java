@@ -6,6 +6,11 @@ Welcome to the comprehensive guide to Generics in Java! Generics are a powerful 
 
 ## 📚 **Table of Contents**
 
+## Sections
+- [Introduction to Generics](./1-introduction-to-generics/)
+- [Advanced Generics](./2-advanced-generics/)
+
+
 1. [Introduction](#introduction)
 2. [Core Concepts](#core-concepts)
 3. [Using Generics](#using-generics)
